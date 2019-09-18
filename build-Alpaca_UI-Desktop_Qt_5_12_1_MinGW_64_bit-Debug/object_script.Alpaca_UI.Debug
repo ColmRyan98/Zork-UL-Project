@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/Command.o
+debug/CommandWords.o
+debug/item.o
+debug/Parser.o
+debug/Room.o
+debug/enemy.o
+debug/Characters.o
+debug/moc_mainwindow.o

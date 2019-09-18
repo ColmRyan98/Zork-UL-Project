@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/Command.o
+release/CommandWords.o
+release/item.o
+release/Parser.o
+release/Room.o
+release/enemy.o
+release/Characters.o
+release/moc_mainwindow.o

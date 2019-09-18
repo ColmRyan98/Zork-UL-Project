@@ -1,0 +1,20 @@
+This game contains:
+-The ability to move North South East and West if there are rooms
+-The ability to move Up or Down in particular areas
+-A map which displays the rooms, paths between rooms, the location of the player and if the player is on a different floor
+-A case insensitive text bx to allow you to pickup items
+-The ability to pick up items and store them in an inventory
+-An inventory screen that gives you live information about what you are carrying
+-A stamina bar that depletes as you move or teleport
+-A means of restoring the stamina bar by returning to a particular room
+-A defeat condition by running out of stamina
+-A win condition by locating and picking up the "brush" and "alpaca" items
+-A friend class between room and mainwindow
+-An enemy class which inherits from character
+-Multiple overloaded methods
+-A template within the character class
+-The ability for items to change name when they enter the inventory
+-A secret defeat condition involving an item and a "Down" move
+-A secret textbox you can never see because its purely to work around a problem unique to my QT
+-Colours to make it look *pretty*
+-Comic Sans
